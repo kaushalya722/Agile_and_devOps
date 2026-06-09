@@ -11,8 +11,8 @@ package com.mycompany.agile_and_devops;
 public class Agile_and_devOps {
 
     public static void main(String[] args) {
+        //print statement
         System.out.println("Hello World!"); 
-        //comment
-        System.out.println("Hello"); 
+        
     }
 }
